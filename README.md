@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zutso1&color=yellow" alt="Profile views" /> </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a297a&height=120&section=header%22/%3E
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a297a&height=120&section=header%22/%3E%22%3E
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a297a&size=20&center=true&vCenter=true&width=1000&lines=Trabalhando+conhecimento,+estética+e+análise+psicológica%29)](https://git.io/typing-svg)
 
